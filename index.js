@@ -13,3 +13,7 @@ let random = function() {
 let mod = function() {
   return 24 % 5;
 }
+
+let max = function {
+  return Math.max(12, 20, 3, 5);
+}
