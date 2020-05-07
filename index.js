@@ -6,3 +6,7 @@ function multiply() {
   let multiply = num1 * num2;
   return multiply;
 }
+
+function random() {
+  return Math.floor(Math.random() * 10) + 1;
+}
