@@ -11,5 +11,5 @@ function random() {
 }
 
 function mod() {
-  
+
 }
