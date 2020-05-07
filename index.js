@@ -6,10 +6,10 @@ let multiply = function() {
   return num1 * num2;
 }
 
-function random() {
+let random = function() {
   return Math.floor(Math.random() * 10) + 1;
 }
 
-function mod() {
-
+let mod = function() {
+  return 24 % 5;
 }
