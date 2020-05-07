@@ -1,12 +1,15 @@
 
 // Write your code here
-function multiply() {
+let multiply = function() {
   let num1 = 31;
   let num2 = 2;
-  let multiply = num1 * num2;
-  return multiply;
+  return num1 * num2;
 }
 
 function random() {
   return Math.floor(Math.random() * 10) + 1;
+}
+
+function mod() {
+  
 }
