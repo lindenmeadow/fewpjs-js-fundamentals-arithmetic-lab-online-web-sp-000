@@ -4,7 +4,7 @@
   let num2 = 2
   const multiply = num1 * num2
 
-const random = return Math.floor(Math.random() * 10) + 1
+const random = Math.floor(Math.random() * 10) + 1
 
 const mod = 24 % 5
 
